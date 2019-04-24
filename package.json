@@ -1,0 +1,31 @@
+{
+  "name": "cakess",
+  "version": "1.0.0",
+  "description": "蛋糕",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "express-session": "^1.16.1",
+    "multer": "^1.4.1",
+    "mysql": "^2.17.1",
+    "session": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvwancong/cakess.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lvwancong/cakess/issues"
+  },
+  "homepage": "https://github.com/lvwancong/cakess#readme"
+}
